@@ -25,7 +25,5 @@ arrObj['d'] = '34';
 
 for(let i in arrObj) {
 
-    //test git
-    //2 test
     console.log(i + ": " + arrObj[i]); 
 }
